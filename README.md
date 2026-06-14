@@ -62,7 +62,7 @@ Production-grade B2B outreach platform built to scale to **10M+ contacts** and *
 A campus networking platform connecting MNNIT students and alumni — making it easy to find peers, share opportunities, and stay connected across batches.
 - Full CRUD with user profiles and a searchable directory
 - Clean, modular JavaScript codebase with a responsive UI
-- `JavaScript` · `Node.js` · `Express`
+- `JavaScript` · `Node.js` · `Express` . `MySQL`
 
 #### ✅ [Task Tracker](https://github.com/rashisuman76-ops/task-tracker)
 A clean task-management app demonstrating CRUD design, state handling, and a focused, readable codebase.
