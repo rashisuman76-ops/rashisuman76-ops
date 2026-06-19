@@ -51,24 +51,24 @@ const rashi = {
 
 ### 🚀 Featured Projects
 
-#### 🛰️ [AstraReach — AI-Powered Multichannel Outbound CRM](https://github.com/rashisuman76-ops/astrareach)
+#### 🛰️ [AstraReach — AI-Powered Multichannel Outbound CRM](https://github.com/rashi-suman/astrareach)
 Production-grade B2B outreach platform built to scale to **10M+ contacts** and **1M+ emails/day**.
 - **Queue-based async backend** with BullMQ workers, schedulers, and webhook processing — eliminated blocking workloads and cut failed campaign jobs by **40%**
 - **3-pass Claude AI enrichment pipeline** (Company → Person → Cross-verify) with confidence scoring and source attribution — never overwrites existing data, discards anything below 70% confidence
 - **RBAC + secure session management**, CSV/XLSX import with keyset pagination tuned for millions of rows
 - `Node.js` · `Express` · `MySQL` · `Redis` · `BullMQ` · `Anthropic Claude API`
 
-#### 🎓 [MNNIT Connect Hub](https://github.com/rashisuman76-ops/project-2024)
+#### 🎓 [MNNIT Connect Hub](https://github.com/rashi-suman/project-2024)
 A campus networking platform connecting MNNIT students and alumni — making it easy to find peers, share opportunities, and stay connected across batches.
 - Full CRUD with user profiles and a searchable directory
 - Clean, modular JavaScript codebase with a responsive UI
 - `JavaScript` · `Node.js` · `Express` . `MySQL`
 
-#### ✅ [Task Tracker](https://github.com/rashisuman76-ops/task-tracker)
+#### ✅ [Task Tracker](https://github.com/rashi-suman/task-tracker)
 A clean task-management app demonstrating CRUD design, state handling, and a focused, readable codebase.
 - `JavaScript`
 
-#### 🖼️ [AI Image Generator](https://github.com/rashisuman76-ops/ai-generated-img)
+#### 🖼️ [AI Image Generator](https://github.com/rashi-suman/ai-generated-img)
 Image-generation app wired to a generative AI API — practical experience integrating third-party AI services.
 - `JavaScript`
 
@@ -87,8 +87,8 @@ Shipped a Whisper-based subtitle pipeline (manual effort **−80%**), optimized 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashisuman76-ops&show_icons=true&hide_border=true&count_private=true" height="160" alt="Rashi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashisuman76-ops&layout=compact&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashi-suman&show_icons=true&hide_border=true&count_private=true" height="160" alt="Rashi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-suman&layout=compact&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 ---
